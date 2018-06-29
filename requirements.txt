@@ -10,4 +10,4 @@ notebook==5.2.2
 scipy
 louvain==0.6.1
 beakerx==0.11.0
-scanpy==0.4.2
+scanpy==1.2.2
